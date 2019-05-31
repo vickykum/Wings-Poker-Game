@@ -1,0 +1,20 @@
+1. Royal Flush 
+The best possible hand in Texas hold'em is the combination of ten, jack, queen, king, ace, all of the same suit
+2. Straight Flush
+Five cards of the same suit in sequential order
+3. Four Of A Kind
+Any four numerically matching cards
+4. Full House
+Combination of three of a kind and a pair in the same hand
+5. Flush
+Five cards of the same suit, in any order
+6. Straight
+Five cards of any suit, in sequential order
+7. Three Of A Kind
+Any three numerically matching cards
+8. Two Pair
+Two different pairs in the same hand
+9. One Pair
+Any two numerically matching cards
+10. High Card
+The highest ranked card in your hand with an ace being the highest and two being the lowest
